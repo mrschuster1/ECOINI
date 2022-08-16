@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/12 16:05:09.000.720,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/12 16:27:47.000.021,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/13 08:39:52.000.986,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/13 08:41:53.000.958,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/13 08:42:43.000.092,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/13 09:00:48.000.588,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/13 09:45:09.000.428,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/13 21:11:11.000.107,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/13 23:30:24.000.650,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/13 23:46:51.000.281,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/14 00:00:48.000.525,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/14 00:23:33.000.806,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/14 00:25:29.000.516,D:\fontes\PROJETOS\ecoini\uMain.pas=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/14 00:25:29.000.516,D:\fontes\PROJETOS\ecoini\uMain.dfm=D:\fontes\PROJETOS\Unit1.dfm</Transaction>
+    <Transaction>2022/08/14 00:25:43.000.757,D:\fontes\PROJETOS\ecoini.dproj=D:\fontes\PROJETOS\Project1.dproj</Transaction>
+    <Transaction>2022/08/14 00:52:14.000.070,D:\fontes\PROJETOS\ecoini\ecoini.dproj=D:\fontes\PROJETOS\ecoini.dproj</Transaction>
+    <Transaction>2022/08/14 22:21:45.000.950,=D:\fontes\PROJETOS\ecoini\uIni.pas</Transaction>
+    <Transaction>2022/08/15 10:50:46.000.984,=D:\fontes\componentes\DelphiUCL\Source\UCL.FontIcons.pas</Transaction>
+    <Transaction>2022/08/15 20:12:20.532,D:\fontes\componentes\DelphiUCL\Source\UCL.FontIcons.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
